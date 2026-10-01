@@ -1,0 +1,26 @@
+# Local credentials and environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Data and generated artifacts will be versioned with DVC where permitted
+data/raw/
+data/processed/
+data/private/
+models/
+indexes/
+mlruns/
+mlartifacts/
+*.sqlite
+
+# Local frontend/build outputs
+node_modules/
+dist/
+build/
+.DS_Store
