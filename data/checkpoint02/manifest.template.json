@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.1",
+  "status": "template",
+  "dataset_version": null,
+  "created_at": null,
+  "code_commit": null,
+  "corpus_manifest_sha256": null,
+  "parent_count": null,
+  "paper_count": null,
+  "reference_count": null,
+  "question_count": null,
+  "unique_question_count": null,
+  "evidence_count": null,
+  "question_volume_confirmed": false,
+  "split": "development_control",
+  "files": [],
+  "limitations": []
+}
